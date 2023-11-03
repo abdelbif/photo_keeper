@@ -1,5 +1,5 @@
 # photo_keeper-using-AWS-react-and-Java-spring
-This is a fullstact application
+This is a fullstack application
 
 ## Project description
 In this project we upload and download files (images) on/from a react front end application.
